@@ -1,5 +1,5 @@
 ---
-id: update-2026-11-21
+id: info-2026-11-21
 active: true
 type: info
 title: Pembaruan Sistem & Fitur Baru
